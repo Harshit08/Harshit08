@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Harshit08/Harshit08/blob/main/GithubImg.gif">
+<img align="right" alt="coding" width="400" src="https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshit08](https://github.com/Harshit08)
 
