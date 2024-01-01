@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshit08/Harshit08/blob/main/githubBanner.jpg)
+![logo](https://user-images.githubusercontent.com/69487958/129805905-168fd73e-1d25-42fe-ac49-e757a584c338.gif)
 <h1 align="center">Hi 👋, I'm Harshit Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
