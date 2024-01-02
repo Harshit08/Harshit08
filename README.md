@@ -21,7 +21,11 @@
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,selenium,gherkin,html,css,vscode,github,git,gitlab,bootstrap,tailwind,eclipse,jenkins" />
-    <img src="https://skillicons.dev/icons?i=python,aws,flask,mysql,maven,pytorch,androidstudio,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,aws,flask,mysql,maven,pytorch,androidstudio,nextjs,mysql,flask" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" height="48" width="50">
+    <img src="https://cdn-icons-png.flaticon.com/512/81/81328.png" height="48" width="50"><br>
+    
+    
 </div>
 
 <br/>
