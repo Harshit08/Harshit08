@@ -9,7 +9,7 @@
  
 🌱 I’m currently learning **Microservice, Algorithms**
 
-💬 Ask me about **c, Java, Java Collection Framework... or anything [here](https://github.com/Harshit08/Harshit08/issues)**
+💬 Ask me about **c, Java, Java Collection Framework... or anything here[🔗](https://github.com/Harshit08/Harshit08/issues)**
 
 ⚡ What excites me is **Challenges**
 
@@ -21,13 +21,15 @@
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,selenium,gherkin,html,css,vscode,github,git,gitlab,bootstrap,tailwind,eclipse,jenkins" />
-    <img src="https://skillicons.dev/icons?i=python,ai,aws,flask,mysql,maven,pytorch,androidstudio,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,aws,flask,mysql,maven,pytorch,androidstudio,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
 <hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit08&show_icons=true&locale=en&layout=compact" alt="harshit08" /></p>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting+my+profile!;" />
+</h1>
 
 
 
